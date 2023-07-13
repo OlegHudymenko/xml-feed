@@ -183,28 +183,36 @@
 			
 			<h3>What are we looking for?</h3>
 			<p style="margin-bottom: 10px;">
-			5+ years in a software engineering role, at least 2 years of leadership experience;
-			Experience leading complex, cross-team engineering efforts, including analysis of requirements and scoping, and knowing what it takes to deliver high-quality software;
-			Deep knowledge of Unity development, as well Java17;
-			Demonstrated ability to run a fast-paced mobile-first product development team, with peers and teammates across multiple locations and timezones, and react effectively to changes in global prioritization;
-			Willingness and enthusiasm to do what it takes to get things done, leading by example and getting involved with the team’s day-to-day work;
-			Exceptional communication skills and can clearly convey messages in English (written and oral);
-			A focus on rapid impact and an ability to articulate the value your work provides.
+			<ul style="list-style: disc;">
+			<li>5+ years in a software engineering role, at least 2 years of leadership experience;</li>
+			<li>Experience leading complex, cross-team engineering efforts, including analysis of requirements and scoping, and knowing what it takes to deliver high-quality software;</li>
+			<li>	Deep knowledge of Unity development, as well Java17;</li>
+			<li>Demonstrated ability to run a fast-paced mobile-first product development team, with peers and teammates across multiple locations and timezones, and react effectively to changes in global prioritization;</li>
+			<li>Willingness and enthusiasm to do what it takes to get things done, leading by example and getting involved with the team`s day-to-day work;</li>
+			<li>Exceptional communication skills and can clearly convey messages in English (written and oral);</li>
+			<li>A focus on rapid impact and an ability to articulate the value your work provides.</li>
+			</ul>
+			
+			
 			</p>
 			
 			<h3>Benefits</h3>
+			
 			<p style="margin-bottom: 10px;">
-			Work on interesting and challenging projects, while building a pioneering software category;
-			Great atmosphere, with the vibe and energy of a high-growth tech company;
-			Ultramodern offices in the heart of Warsaw;
-			Coffee, tea, snacks, and fresh fruit/vegetables;
-			Competitive salary and equity;
-			Health Benefit Package (LuxMed);
-			20 Paid Time Off days, Public Holidays of Poland;
-			An immersive English-speaking work environment (we have a lot of native speakers at the office);
-			Close collaboration between international team members;
-			Corporate activities and parties;
-			And, of course, we use Surprise internally!
+			<ul style="list-style: disc;">
+			<li>Work on interesting and challenging projects, while building a pioneering software category;</li>
+			<li>Great atmosphere, with the vibe and energy of a high-growth tech company;</li>
+			<li>Ultramodern offices in the heart of Warsaw;</li>
+			<li>Coffee, tea, snacks, and fresh fruit/vegetables;</li>
+			<li>Competitive salary and equity;</li>
+			<li>Health Benefit Package (LuxMed);</li>
+			<li>20 Paid Time Off days, Public Holidays of Poland;</li>
+			<li>An immersive English-speaking work environment (we have a lot of native speakers at the office);</li>
+			<li>Close collaboration between international team members;</li>
+			<li>Corporate activities and parties;</li>
+			<li>And, of course, we use Surprise internally!</li>
+			
+			</ul>
 			</p>
 			]]>
 		</description>
