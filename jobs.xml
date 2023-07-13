@@ -173,10 +173,12 @@
 			
 			<h3>What will you be doing?</h3>
 			<p style="margin-bottom: 10px;">
-			Managing several scrum teams which are responsible for developing new games as well as existing ones;
-			Working hands-on with your team and stakeholders to enable rapid delivery of features and technical solutions that make a positive user impact;
-			Being technically involved and engaging in substantive discussion when reviewing technical roadmaps and project implementation with the team;
-			Fostering a non-hierarchical exchange of ideas; valuing the idea rather than the individual who communicates it.
+			<ul style="list-style: disc;">
+			<li>Managing several scrum teams which are responsible for developing new games as well as existing ones;</li>
+			<li>Working hands-on with your team and stakeholders to enable rapid delivery of features and technical solutions that make a positive user impact;</li>
+			<li>Being technically involved and engaging in substantive discussion when reviewing technical roadmaps and project implementation with the team;</li>
+			<li>Fostering a non-hierarchical exchange of ideas; valuing the idea rather than the individual who communicates it.</li>
+			</ul>
 			</p>
 			
 			<h3>What are we looking for?</h3>
