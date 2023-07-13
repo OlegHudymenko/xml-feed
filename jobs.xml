@@ -479,21 +479,25 @@
 		</region>
 		<description>
 			<![CDATA[
-			Surprise.com is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
+			<div class="job-tab">
+			<p style="margin-bottom: 10px;">
+			<a href="https://surprise.com/">Surprise.com</a> is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
 			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
 			We are looking for an experienced Unity Engineer who is self-motivated, goal-orientated and a strong team player. You take pride in your work, and know what it means to take responsibility and deliver quality-focused products. You enjoy working in a fast-paced and dynamic environment. You have the knowledge and ability to visualize how things should work, and how to translate this into a functioning solution.
 			With constant development of both live games and prototypes, game programmers have a ton of responsibilities here, and we’re looking for the best of the best – the type of engineers we one could build entire teams around.
+			</p>
 			
-			What will you be doing?
+			<h3>What will you be doing?</h3>
+			<p style="margin-bottom: 10px;">
 			
 			Being involved in all areas of game development including Programming of Graphics, Game Logic, Artificial Intelligence and User Interface;
 			Supporting and contributing new ideas to game design;
 			Writing robust code to be used at massive scale;
 			Independently creating complete solutions from scratch;
-			Working as part of a team, but with plenty of opportunity to take responsibility on an individual level.
+			Working as part of a team, but with plenty of opportunity to take responsibility on an individual level. </p>
 			
-			What are we looking for?
-			
+			<h3>What are we looking for? </h3>
+			<p style="margin-bottom: 10px;">
 			4+ years of experience in using Unity;
 			BS/MS/PhD in Computer Science, Math, Physics or similar technical field;
 			Upper-Intermediate English or higher (B2+);
@@ -505,11 +509,10 @@
 			What skills will come in handy?
 			Experience in native development for Android or iOS;
 			Released titles in Unity on a mobile platform is a big plus;
-			A particular focus in one of these areas: Architecture, Computer Graphics, Computer Vision, Network, WebGL, Client Security.
+			A particular focus in one of these areas: Architecture, Computer Graphics, Computer Vision, Network, WebGL, Client Security. </p>
 			
-			Benefits
-			
-			Work on interesting and challenging projects, while building a pioneering software category;
+			<h3>Benefits</h3>
+			<p style="margin-bottom: 10px;">Work on interesting and challenging projects, while building a pioneering software category;
 			Great atmosphere, with the vibe and energy of a high-growth tech company;
 			Ultramodern offices in the heart of Warsaw;
 			Coffee, tea, snacks, and fresh fruit/vegetables;
@@ -519,7 +522,8 @@
 			An immersive English-speaking work environment (we have a lot of native speakers at the office);
 			Close collaboration between international team members;
 			Corporate activities and parties;
-			And, of course, we use Surprise internally!
+			And, of course, we use Surprise internally!</p>
+			</div>
 			]]>
 		</description>
 		<pubdate>
