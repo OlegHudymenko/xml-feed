@@ -12,57 +12,67 @@
 		</region>
 		<description>
 			<![CDATA[
-			Surprise.com is a technology company on a mission to build the world`s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
-			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
-			We're now looking for an experienced and motivated Algorithm Developer to join our Data team – the backbone of our Data-driven operations – and architect our internal Data infrastructure. You'll partner with company leadership to implement and measure the impact of strategic projects and inform how our engineers build the next generation of Data platforms. Our ideal candidate maintains a deep systems background and will use that competence to guide the team towards well-engineered and durable solutions.
-			Your talent and commitment to technical excellence will make a tremendous impact day in and day out – if this challenge excites you, apply below!
+			<p>
+			<a href="Surprise.com">Surprise.com</a> is a technology company on a mission to build the world`s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.</p>
+			<p>What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.</p>
+			<p>We're now looking for an experienced and motivated Algorithm Developer to join our Data team – the backbone of our Data-driven operations – and architect our internal Data infrastructure. You'll partner with company leadership to implement and measure the impact of strategic projects and inform how our engineers build the next generation of Data platforms. Our ideal candidate maintains a deep systems background and will use that competence to guide the team towards well-engineered and durable solutions.</p>
+			<p>Your talent and commitment to technical excellence will make a tremendous impact day in and day out – if this challenge excites you, apply below!</p>
 			
-			What will you be doing?
+			<h3>What will you be doing?</h3>
 			
-			Designing, developing, and implementing complex algorithms;
-			Collaborating with cross-functional teams to understand requirements and develop solutions;
-			Optimizing existing algorithms to improve performance and scalability;
-			Researching and evaluating new algorithmic approaches and techniques;
-			Working with large-scale data and distributed processing;
-			Combining classical programming and algorithm development.
+			<ul style="list-style: disc;">
+			<li>Designing, developing, and implementing complex algorithms;</li>
+			<li>Collaborating with cross-functional teams to understand requirements and develop solutions;</li>
+			<li>Optimizing existing algorithms to improve performance and scalability;</li>
+			<li>Researching and evaluating new algorithmic approaches and techniques;</li>
+			<li>Working with large-scale data and distributed processing;</li>
+			<li>Combining classical programming and algorithm development.</li>
+			</ul>
 			
-			What are we looking for?
 			
-			A BS or higher in computer science or a related field;
-			2+ years of Algorithms development experience;
-			Strong Coding Skills;
-			Practical experience with high-level Python programming;
-			Proficiency in database query languages such as SQL;
-			Understanding of the ETL process;
-			Knowledge of Linear Algebra, Probability and Statistics, and Numerical methods;
-			Understanding of software development process, Agile approach, and CI/CD;
-			Exceptional communication skills and can clearly convey messages in English (written and oral);
-			Experience in working with ambiguity, critical thinking and problem-solving capabilities both independently and collaboratively.
+			<h3>What are we looking for?</h3>
+			<ul style="list-style: disc;">
+			<li>A BS or higher in computer science or a related field;</li>
+			<li>2+ years of Algorithms development experience;</li>
+			<li>Strong Coding Skills;</li>
+			<li>Practical experience with high-level Python programming;</li>
+			<li>Proficiency in database query languages such as SQL;</li>
+			<li>Understanding of the ETL process;</li>
+			<li>Knowledge of Linear Algebra, Probability and Statistics, and Numerical methods;</li>
+			<li>Understanding of software development process, Agile approach, and CI/CD;</li>
+			<li>Exceptional communication skills and can clearly convey messages in English (written and oral);</li>
+			<li>Experience in working with ambiguity, critical thinking and problem-solving capabilities both independently and collaboratively.</li>
 			
-			What skills will come in handy?
+			</ul>
 			
-			Experience building large-scale recommender engines;
-			Experience working in a Mobile Gaming Company;
-			Understanding of predictive analytics (supervised learning, time-series analysis and forecasting, survival analysis, etc.);
-			Applied statistics skills, such as hypothesis testing, regression analysis, etc.;
-			Experience building micro-services and containerised applications (Docker, k8s);
-			Experience working with large datasets, preferably in a Snowflake, Redshift or Spark environment (MLlib/ML);
-			Experience with data visualization tools, such as Ggplot2, Plotly, Matplotlib;
-			Experience with BI tools such as Tableau and QuickSight.
 			
-			Benefits
+			<h3>What skills will come in handy?</h3>
+			<ul style="list-style: disc;">
+			<li>Experience building large-scale recommender engines;</li>
+			<li>Experience working in a Mobile Gaming Company;</li>
+			<li>Understanding of predictive analytics (supervised learning, time-series analysis and forecasting, survival analysis, etc.);</li>
+			<li>Applied statistics skills, such as hypothesis testing, regression analysis, etc.;</li>
+			<li>Experience building micro-services and containerised applications (Docker, k8s);</li>
+			<li>Experience working with large datasets, preferably in a Snowflake, Redshift or Spark environment (MLlib/ML);</li>
+			<li>Experience with data visualization tools, such as Ggplot2, Plotly, Matplotlib;</li>
+			<li>Experience with BI tools such as Tableau and QuickSight.</li>
+			</ul>
 			
-			Work on interesting and challenging projects, while building a pioneering software category;
-			Great atmosphere, with the vibe and energy of a high-growth tech company;
-			Ultramodern offices in the heart of Warsaw;
-			Coffee, tea, snacks, and fresh fruit/vegetables;
-			Competitive salary and equity;
-			Health Benefit Package (LuxMed);
-			20 Paid Time Off days, Public Holidays of Poland;
-			An immersive English-speaking work environment (we have a lot of native speakers at the office);
-			Close collaboration between international team members;
-			Corporate activities and parties;
-			And, of course, we use Surprise internally!
+			<h3>Benefits</h3>
+			<ul style="list-style: disc;">
+			<li>Work on interesting and challenging projects, while building a pioneering software category;</li>
+			<li>Great atmosphere, with the vibe and energy of a high-growth tech company;</li>
+			<li>Ultramodern offices in the heart of Warsaw;</li>
+			<li>Coffee, tea, snacks, and fresh fruit/vegetables;</li>
+			<li>Competitive salary and equity;</li>
+			<li>Health Benefit Package (LuxMed);</li>
+			<li>20 Paid Time Off days, Public Holidays of Poland;</li>
+			<li>An immersive English-speaking work environment (we have a lot of native speakers at the office);</li>
+			
+			<li>Close collaboration between international team members;</li>
+			<li>Corporate activities and parties;</li>
+			<li>And, of course, we use Surprise internally!</li>
+			</ul>
 			]]>
 		</description>
 		<company>
@@ -93,42 +103,52 @@
 		</region>
 		<description>
 			<![CDATA[
-			Surprise.com is a technology company on a mission to build the world`s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
-			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
-			Mobile feature development pods are the key building blocks of the Surprise R&D division. We are looking for an Engineering Manager with great product sense to join and lead our E-commerce pod, an amazing team of engineers, as we scale for continued growth.You will develop a vision for your pod, and help generate an engineering roadmap to deliver on multiple product and engineering initiatives. You will exemplify the Surprise leadership principles, and formulate strong partnerships throughout the company at all levels.
-			You have a deep systems background and value technical excellence, and use that to guide the team towards well-engineered and durable solutions. While you aren’t expected to spend a large percentage of time coding, you are expected to be able to evaluate and raise the technical bar, and help others attain it. You will play a part in engineering, design reviews, code reviews, and will contribute to the code base directly when needed. You lead by example rather than authority.
-			Any room that you enter should have more certainty and a firmer plan by the time that you leave it. You may walk into a situation where people have lost track of their goals and after your involvement, you get everyone aligned on a clear path forward. You remove unimportant details, distill complex situations to their essence, and get the right decision-maker to make a call – even if it’s not you.
-			What will you be doing?
+			<p><a href="Surprise.com">Surprise.com</a> is a technology company on a mission to build the world`s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.</p>
+			<p>What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.</p>
+			<p>Mobile feature development pods are the key building blocks of the Surprise R&D division. We are looking for an Engineering Manager with great product sense to join and lead our E-commerce pod, an amazing team of engineers, as we scale for continued growth.You will develop a vision for your pod, and help generate an engineering roadmap to deliver on multiple product and engineering initiatives. You will exemplify the Surprise leadership principles, and formulate strong partnerships throughout the company at all levels.</p>
+			<p>You have a deep systems background and value technical excellence, and use that to guide the team towards well-engineered and durable solutions. While you aren’t expected to spend a large percentage of time coding, you are expected to be able to evaluate and raise the technical bar, and help others attain it. You will play a part in engineering, design reviews, code reviews, and will contribute to the code base directly when needed. You lead by example rather than authority.</p>
+			<p>Any room that you enter should have more certainty and a firmer plan by the time that you leave it. You may walk into a situation where people have lost track of their goals and after your involvement, you get everyone aligned on a clear path forward. You remove unimportant details, distill complex situations to their essence, and get the right decision-maker to make a call – even if it’s not you.</p>
 			
-			Managing a top performing team of engineers, a group focused on creating highly engaging gamified social experiences;
-			Leading a team of 8-10 engineers and accelerating their growth by providing thoughtful feedback, technical mentorship, and effectively manage performance;
-			Working hands-on with your team and stakeholders to enable rapid delivery of features and technical solutions that make a positive user impact;
-			Being technically involved and engaging in substantive discussion when reviewing technical roadmaps and project implementation with the team;
-			Fostering a non-hierarchical exchange of ideas; valuing the idea rather than the individual who communicates it.
+			<h3>What will you be doing?</h3>
+			<ul style="list-style: disc;">
+			<li>Managing a top performing team of engineers, a group focused on creating highly engaging gamified social experiences;</li>
+			<li>Leading a team of 8-10 engineers and accelerating their growth by providing thoughtful feedback, technical mentorship, and effectively manage performance;</li>
+			<li>Working hands-on with your team and stakeholders to enable rapid delivery of features and technical solutions that make a positive user impact;</li>
+			<li>Being technically involved and engaging in substantive discussion when reviewing technical roadmaps and project implementation with the team;</li>
+			<li>Fostering a non-hierarchical exchange of ideas; valuing the idea rather than the individual who communicates it.</li>
+			</ul>
 			
-			What are we looking for?
 			
-			5+ years in a software engineering role, at least 2 years of leadership experience;
-			Experience leading complex, cross-team engineering efforts, including analysis of requirements and scoping, and knowing what it takes to deliver high-quality software;
-			Deep, hands-on knowledge of native technology, swift motility as well as backend systems, Java systems architecture;
-			Demonstrated ability to run a fast-paced mobile-first product development team, with peers and teammates across multiple locations and timezones, and react effectively to changes in global prioritization;
-			Willingness and enthusiasm to do what it takes to get things done, leading by example and getting involved with the team’s day-to-day work;
-			Exceptional communication skills and can clearly convey messages in English (written and oral);
-			A focus on rapid impact and an ability to articulate the value your work provides.
+			<h3>What are we looking for?</h3>
+			<ul style="list-style: disc;">
+			<li>5+ years in a software engineering role, at least 2 years of leadership experience;</li>
+			<li>Experience leading complex, cross-team engineering efforts, including analysis of requirements and scoping, and knowing what it takes to deliver high-quality software;</li>
+			<li>Deep, hands-on knowledge of native technology, swift motility as well as backend systems, Java systems architecture;
+			</li>
+			<li>Demonstrated ability to run a fast-paced mobile-first product development team, with peers and teammates across multiple locations and timezones, and react effectively to changes in global prioritization;</li>
+			<li>Willingness and enthusiasm to do what it takes to get things done, leading by example and getting involved with the team’s day-to-day work;
+			</li>
+			<li>Exceptional communication skills and can clearly convey messages in English (written and oral);
+			</li>
+			<li>A focus on rapid impact and an ability to articulate the value your work provides.
+			</li>
+			</ul>
 			
-			Benefits
 			
-			Work on interesting and challenging projects, while building a pioneering software category;
-			Great atmosphere, with the vibe and energy of a high-growth tech company;
-			Ultramodern offices in the heart of Warsaw;
-			Coffee, tea, snacks, and fresh fruit/vegetables;
-			Competitive salary and equity;
-			Health Benefit Package (LuxMed);
-			20 Paid Time Off days, Public Holidays of Poland;
-			An immersive English-speaking work environment (we have a lot of native speakers at the office);
-			Close collaboration between international team members;
-			Corporate activities and parties;
-			And, of course, we use Surprise internally!
+			<h3>Benefits</h3>
+			<ul style="list-style: disc;">
+			<li>Work on interesting and challenging projects, while building a pioneering software category;</li>
+			<li>Great atmosphere, with the vibe and energy of a high-growth tech company;</li>
+			<li>Ultramodern offices in the heart of Warsaw;</li>
+			<li>Coffee, tea, snacks, and fresh fruit/vegetables;</li>
+			<li>Competitive salary and equity;</li>
+			<li>Health Benefit Package (LuxMed);</li>
+			<li>20 Paid Time Off days, Public Holidays of Poland;</li>
+			<li>An immersive English-speaking work environment (we have a lot of native speakers at the office);</li>
+			<li>Close collaboration between international team members;</li>
+			<li>Corporate activities and parties;</li>
+			<li>And, of course, we use Surprise internally!</li>
+			</ul>
 			]]>
 		</description>
 		<pubdate>
@@ -163,13 +183,13 @@
 		<description>
 			<![CDATA[
 			<p style="margin-bottom: 10px;">
-			<a href="Surprise.com">Surprise.com</a> is a technology company on a mission to build the world`s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
-			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
-			Game development pods are a key building block of the Surprise R&D division. We are looking for a Group R&D Manager with great product sense to lead an amazing team of game engineers as we scale for continued growth. As R&D Group manager of games you will have the freedom to operate on the games engineering domain and to build the best in class games development teams. You will be able to shape the games engineering team by hiring, mentoring, setting KPIs, leading the change to develop the top games on time and on quality. You will be part of the extended management and you will take part in management discussions and decision making an impact in the games domain, its roadmap and future!
-			You have a deep systems background and value technical excellence, and use that to guide the team towards well-engineered and durable solutions. While you aren’t expected to spend a large percentage of time coding, you are expected to be able to evaluate and raise the technical bar, and help others attain it. You will play a part in engineering, design reviews, code reviews, and will contribute to the code base directly when needed. You lead by example rather than authority.
-			Any room that you enter should have more certainty and a firmer plan by the time that you leave it. You may walk into a situation where people have lost track of their goals and after your involvement, you get everyone aligned on a clear path forward. You remove unimportant details, distill complex situations to their essence, and get the right decision-maker to make a call – even if it’s not you.
-			
+			<a href="Surprise.com">Surprise.com</a> is a technology company on a mission to build the world`s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes
 			</p>
+			<p>What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission. </p>
+			<p>	Game development pods are a key building block of the Surprise R&D division. We are looking for a Group R&D Manager with great product sense to lead an amazing team of game engineers as we scale for continued growth. As R&D Group manager of games you will have the freedom to operate on the games engineering domain and to build the best in class games development teams. You will be able to shape the games engineering team by hiring, mentoring, setting KPIs, leading the change to develop the top games on time and on quality. You will be part of the extended management and you will take part in management discussions and decision making an impact in the games domain, its roadmap and future!</p>
+			<p>	You have a deep systems background and value technical excellence, and use that to guide the team towards well-engineered and durable solutions. While you aren’t expected to spend a large percentage of time coding, you are expected to be able to evaluate and raise the technical bar, and help others attain it. You will play a part in engineering, design reviews, code reviews, and will contribute to the code base directly when needed. You lead by example rather than authority.</p>
+			<p>Any room that you enter should have more certainty and a firmer plan by the time that you leave it. You may walk into a situation where people have lost track of their goals and after your involvement, you get everyone aligned on a clear path forward. You remove unimportant details, distill complex situations to their essence, and get the right decision-maker to make a call – even if it’s not you.</p>
+			
 			
 			<h3>What will you be doing?</h3>
 			<p style="margin-bottom: 10px;">
@@ -182,7 +202,6 @@
 			</p>
 			
 			<h3>What are we looking for?</h3>
-			<p style="margin-bottom: 10px;">
 			<ul style="list-style: disc;">
 			<li>5+ years in a software engineering role, at least 2 years of leadership experience;</li>
 			<li>Experience leading complex, cross-team engineering efforts, including analysis of requirements and scoping, and knowing what it takes to deliver high-quality software;</li>
@@ -193,8 +212,6 @@
 			<li>A focus on rapid impact and an ability to articulate the value your work provides.</li>
 			</ul>
 			
-			
-			</p>
 			
 			<h3>Benefits</h3>
 			
@@ -247,56 +264,67 @@
 		</region>
 		<description>
 			<![CDATA[
-			Surprise.com is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
-			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
-			We are currently looking for motivated Software Engineers specialised in iOS development to join our team. As a Senior iOS Engineer, you will become a part of the Revenue Pod, responsible for developing new features, identifying opportunities for improvement, and driving projects to completion.
-			So, if you're ready to make an enormous impact in a fast-paced, high-growth environment and see your fingerprints on a truly global product, we want to hear from you!
+			<p><a href="Surprise.com">Surprise.com</a>  is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.</p>
+			<p>What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.</p>
+			<p>We are currently looking for motivated Software Engineers specialised in iOS development to join our team. As a Senior iOS Engineer, you will become a part of the Revenue Pod, responsible for developing new features, identifying opportunities for improvement, and driving projects to completion.</p>
+			<p>So, if you're ready to make an enormous impact in a fast-paced, high-growth environment and see your fingerprints on a truly global product, we want to hear from you!</p>
 			
-			What will you be doing?
+			<h3>What will you be doing?</h3>
+			<ul style="list-style: disc;">
+			<li>Making our product better, stronger, faster;</li>
+			<li>Developing new features and improvements for our iOS app and games, and ensuring that they meet high standards for usability and performance;
+			</li>
+			<li>Identifying and addressing technical debt and other issues that impact the quality of our iOS app and games;
+			</li>
+			<li>Improving the infrastructure and tooling that supports our iOS app and games development, with a focus on continuous integration and delivery;
+			</li>
+			<li>Working collaboratively with other engineers to implement best practices, ensure high-quality code, and review the code of other team members;
+			</li>
+			<li>Staying up-to-date with the latest iOS development trends and technologies, and sharing your knowledge with the team.
+			</li>
+			</ul>
 			
-			Making our product better, stronger, faster;
-			Developing new features and improvements for our iOS app and games, and ensuring that they meet high standards for usability and performance;
-			Identifying and addressing technical debt and other issues that impact the quality of our iOS app and games;
-			Improving the infrastructure and tooling that supports our iOS app and games development, with a focus on continuous integration and delivery;
-			Working collaboratively with other engineers to implement best practices, ensure high-quality code, and review the code of other team members;
-			Staying up-to-date with the latest iOS development trends and technologies, and sharing your knowledge with the team.
 			
-			What are we looking for?
+			<h3>What are we looking for?</h3>
+			<ul style="list-style: disc;">
+			<li>Upper-Intermediate English or higher (B2+);</li>
+			<li>Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience);</li>
+			<li>5+ years of experience in iOS app development with a strong understanding of Swift programming language, UIKit and SwiftUI framework;</li>
+			<li>Strong knowledge of MVVM architecture and reactive programming with Combine framework;</li>
+			<li>Experience with networking protocols, such as HTTP, TCP, and UDP, and NSURLSession framework;</li>
+			<li>Proficiency in Git version control system and collaborative software development;</li>
+			<li>Strong problem-solving skills and attention to detail;</li>
+			<li>Excellent verbal and written communication skills, with the ability to collaborate effectively with designers, product managers, and other engineers;</li>
+			<li>Ability to work in a fast-paced, dynamic environment and manage multiple priorities and deadlines effectively;
+			</li>
+			<li>Passion for mobile games and eagerness to learn and grow as a developer.</li>
+			</ul>
 			
-			Upper-Intermediate English or higher (B2+);
-			Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience);
-			5+ years of experience in iOS app development with a strong understanding of Swift programming language, UIKit and SwiftUI framework;
-			Strong knowledge of MVVM architecture and reactive programming with Combine framework;
-			Experience with networking protocols, such as HTTP, TCP, and UDP, and NSURLSession framework;
-			Proficiency in Git version control system and collaborative software development;
-			Strong problem-solving skills and attention to detail;
-			Excellent verbal and written communication skills, with the ability to collaborate effectively with designers, product managers, and other engineers;
-			Ability to work in a fast-paced, dynamic environment and manage multiple priorities and deadlines effectively;
-			Passion for mobile games and eagerness to learn and grow as a developer.
+			<h3>What skills will come in handy?</h3>
+			<ul style="list-style: disc;">
+			<li>App store distribution and beta testing;</li>
+			<li>Experience building for other Apple platforms (Watch, etc);</li>
+			<li>iOS development experience in Objective-C;</li>
+			<li>Experience working within a geographically dispersed team;</li>
+			<li>Demonstrated ability to expertly manage conflicting priorities;</li>
+			<li>High-bandwidth, high-energy, competitive, and creative individual;</li>
+			<li>Driven to outperform, dedicated to self-improvement.</li>
+			</ul>
 			
-			What skills will come in handy?
-			
-			App store distribution and beta testing;
-			Experience building for other Apple platforms (Watch, etc);
-			iOS development experience in Objective-C;
-			Experience working within a geographically dispersed team;
-			Demonstrated ability to expertly manage conflicting priorities;
-			High-bandwidth, high-energy, competitive, and creative individual;
-			Driven to outperform, dedicated to self-improvement.
-			
-			Benefits
-			
-			Work on interesting and challenging projects, while building a pioneering software category;
-			Great atmosphere, with the vibe and energy of a high-growth tech company;
-			Ultramodern offices in the heart of Warsaw;
-			Coffee, tea, snacks, and fresh fruit/vegetables;
-			Competitive salary and equity;
-			Health Benefit Package (LuxMed);
-			20 Paid Time Off days, Public Holidays of Poland;
-			An immersive English-speaking work environment (we have a lot of native speakers at the office);
-			Close collaboration between international team members;
-			Corporate activities and parties;
-			And, of course, we use Surprise internally!
+			<h3>Benefits</h3>
+			<ul style="list-style: disc;">
+			<li>Work on interesting and challenging projects, while building a pioneering software category;</li>
+			<li>Great atmosphere, with the vibe and energy of a high-growth tech company;</li>
+			<li>Ultramodern offices in the heart of Warsaw;</li>
+			<li>Coffee, tea, snacks, and fresh fruit/vegetables;</li>
+			<li>Competitive salary and equity;</li>
+			<li>Health Benefit Package (LuxMed);</li>
+			<li>20 Paid Time Off days, Public Holidays of Poland;</li>
+			<li>An immersive English-speaking work environment (we have a lot of native speakers at the office);</li>
+			<li>Close collaboration between international team members;</li>
+			<li>Corporate activities and parties;</li>
+			<li>And, of course, we use Surprise internally!</li>
+			</ul>
 			]]>
 		</description>
 		<pubdate>
@@ -330,53 +358,91 @@
 		</region>
 		<description>
 			<![CDATA[
-			Surprise.com is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
-			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
-			We are currently looking for motivated Software Engineers specialized in Java development to join our team as Senior Java Engineers and help us continue driving our tremendous growth. This is a high visibility role at a rapidly growing organization with countless opportunities for professional development and upward mobility.
-			As a Senior Java Engineer, you will become a part of the Games division, responsible for developing all the games featured in our app, including our flagship titles: Spin N’ Win and Trivia Clash.
-			We need a proactive, detail-oriented engineer who can take ownership of their work, identify opportunities for improvement, get things done and drive projects to completion.
-			So, if you're ready to make an enormous impact in a fast-paced, high-growth environment and see your fingerprints on a truly global product, we want to hear from you!
+			<p><a href="Surprise.com">Surprise.com</a>  is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.</p>
+			<p>What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.</p>
+			<p>We are currently looking for motivated Software Engineers specialized in Java development to join our team as Senior Java Engineers and help us continue driving our tremendous growth. This is a high visibility role at a rapidly growing organization with countless opportunities for professional development and upward mobility.</p>
+			<p>As a Senior Java Engineer, you will become a part of the Games division, responsible for developing all the games featured in our app, including our flagship titles: Spin N’ Win and Trivia Clash.</p>
+			<p>We need a proactive, detail-oriented engineer who can take ownership of their work, identify opportunities for improvement, get things done and drive projects to completion.</p>
+			<p>So, if you're ready to make an enormous impact in a fast-paced, high-growth environment and see your fingerprints on a truly global product, we want to hear from you!</p>
 			
-			What will you be doing?
+			<h3>What will you be doing?</h3>
+			<ul style="list-style: disc;">
+			<li>Developing backend services for a number of our games.;</li>
+			<li>Collaborating with Designers and Product Managers to continuously improve the User experience of our flagship games;</li>
+			<li>Developing new features and improvements for our games backend services, and ensuring that they meet high standards and good performance;
+			</li>
+			<li>Identifying and addressing technical debt and other issues that impact the quality of our services and games;
+			</li>
+			<li>Improving the infrastructure and tooling that supports our services development, with a focus on quality and delivery;
+			</li>
+			<li>Working collaboratively with other Engineers to implement best practices and ensure high-quality code, and reviewing the code of other team members;
+			</li>
+			<li>Staying up-to-date with the latest Java and game-development trends and technologies, and sharing your knowledge with the team.
+			</li>
+			</ul>
 			
-			Developing backend services for a number of our games.;
-			Collaborating with Designers and Product Managers to continuously improve the User experience of our flagship games;
-			Developing new features and improvements for our games backend services, and ensuring that they meet high standards and good performance;
-			Identifying and addressing technical debt and other issues that impact the quality of our services and games;
-			Improving the infrastructure and tooling that supports our services development, with a focus on quality and delivery;
-			Working collaboratively with other Engineers to implement best practices and ensure high-quality code, and reviewing the code of other team members;
-			Staying up-to-date with the latest Java and game-development trends and technologies, and sharing your knowledge with the team.
 			
-			What are we looking for?
 			
-			5+ years of experience in Java backend development with a strong understanding of the Java programming language;
-			Proficiency in Spring Framework, including Spring Boot and Spring MVC, for building scalable and robust backend systems;
-			Strong knowledge of PostgreSQL, and experience in writing efficient SQL queries and designing database schemas;
-			Experience with web service architectures, including RESTful APIs, and an understanding of HTTP, TCP, and UDP protocols;
-			Proficiency in Git version control system and collaborative software development;
-			Strong problem-solving skills and attention to detail;
-			Excellent verbal and written communication skills, with the ability to collaborate effectively with Designers, Product Managers, and other Engineers;
-			Upper Intermediate English or higher (B2+);
-			Ability to work in a fast-paced, dynamic environment and manage multiple priorities and deadlines effectively.
-			What skills will come in handy?
-			Passion for games and a strong interest in the gaming industry;
-			Experience in developing backend systems specifically for games;
-			Familiarity with message broker systems like RabbitMQ or Apache Kafka for implementing event-driven architectures;
-			Experience with sockets and real-time multiplayer.
+			<h3>What are we looking for?</h3>
+			<ul style="list-style: disc;">
+			<li>5+ years of experience in Java backend development with a strong understanding of the Java programming language;
+			</li>
+			<li>Proficiency in Spring Framework, including Spring Boot and Spring MVC, for building scalable and robust backend systems;
+			</li>
+			<li>Strong knowledge of PostgreSQL, and experience in writing efficient SQL queries and designing database schemas;
+			</li>
+			<li>Experience with web service architectures, including RESTful APIs, and an understanding of HTTP, TCP, and UDP protocols;
+			</li>
+			<li>Proficiency in Git version control system and collaborative software development;
+			</li>
+			<li>Strong problem-solving skills and attention to detail;
+			</li>
+			<li>Excellent verbal and written communication skills, with the ability to collaborate effectively with Designers, Product Managers, and other Engineers;
+			</li>
+			<li>Upper Intermediate English or higher (B2+);
+			</li>
 			
-			Benefits
+			<li>Ability to work in a fast-paced, dynamic environment and manage multiple priorities and deadlines effectively.
+			</li>
 			
-			Work on interesting and challenging projects, while building a pioneering software category;
-			Great atmosphere, with the vibe and energy of a high-growth tech company;
-			Ultramodern offices in the heart of Warsaw;
-			Coffee, tea, snacks, and fresh fruit/vegetables;
-			Competitive salary and equity;
-			Health Benefit Package (LuxMed);
-			20 Paid Time Off days, Public Holidays of Poland;
-			An immersive English-speaking work environment (we have a lot of native speakers at the office);
-			Close collaboration between international team members;
-			Corporate activities and parties;
-			And, of course, we use Surprise internally!
+			<li>What skills will come in handy?
+			</li>
+			<li>Passion for games and a strong interest in the gaming industry;
+			</li>
+			<li>Experience in developing backend systems specifically for games;
+			</li>
+			<li>Familiarity with message broker systems like RabbitMQ or Apache Kafka for implementing event-driven architectures;
+			</li>
+			<li>Experience with sockets and real-time multiplayer.
+			</li>
+			
+			</ul>
+			
+			<h3>Benefits</h3>
+			<ul style="list-style: disc;">
+			<li>Work on interesting and challenging projects, while building a pioneering software category;</li>
+			<li>Great atmosphere, with the vibe and energy of a high-growth tech company;
+			</li>
+			<li>Ultramodern offices in the heart of Warsaw;
+			</li>
+			<li>Coffee, tea, snacks, and fresh fruit/vegetables;
+			</li>
+			<li>Competitive salary and equity;
+			</li>
+			<li>Health Benefit Package (LuxMed);
+			</li>
+			<li>20 Paid Time Off days, Public Holidays of Poland;
+			</li>
+			<li>An immersive English-speaking work environment (we have a lot of native speakers at the office);
+			</li>
+			<li>Close collaboration between international team members;
+			</li>
+			<li>Corporate activities and parties;
+			</li>
+			<li>And, of course, we use Surprise internally!
+			</li>
+			
+			</ul>
 			]]>
 		</description>
 		<pubdate>
@@ -410,59 +476,103 @@
 		</region>
 		<description>
 			<![CDATA[
-			Surprise.com is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
-			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
-			We're now looking for an experienced Senior QA to join us in delivering a first-class experience to our worldwide audience. In this role, you will join the QA efforts across multiple countries and teams.
-			Your talent and commitment to technical excellence will make a tremendous impact day in and day out – if this challenge excites you, apply below!
+			<p><a href="Surprise.com">Surprise.com</a>  is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.</p>
+			<p>What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.</p>
+			<p>We're now looking for an experienced Senior QA to join us in delivering a first-class experience to our worldwide audience. In this role, you will join the QA efforts across multiple countries and teams.</p>
+			<p>Your talent and commitment to technical excellence will make a tremendous impact day in and day out – if this challenge excites you, apply below!</p>
 			
-			What will you be doing?
+			<h3>What will you be doing?</h3>
+			<ul style="list-style: disc;">
+			<li>Performing manual tests;</li>
+			<li>Thinking on various test scenarios and/or writing test cases;</li>
+			<li>Communicating with developers, product, designer and more;
+			</li>
+			<li>Clarifying requirements with in-house stakeholders;
+			</li>
+			<li>Reporting and tracking bugs;
+			</li>
+			<li>Participating in a scrum environment (stand-ups, planning sessions, etc.);
+			</li>
+			<li>Doing root cause analysis escape defects and investigating issues coming from support.
+			</li>
+			</ul>
 			
-			Performing manual tests;
-			Thinking on various test scenarios and/or writing test cases;
-			Communicating with developers, product, designer and more;
-			Clarifying requirements with in-house stakeholders;
-			Reporting and tracking bugs;
-			Participating in a scrum environment (stand-ups, planning sessions, etc.);
-			Doing root cause analysis escape defects and investigating issues coming from support.
 			
-			What are we looking for?
 			
-			4+ years of commercial experience;
-			Upper-Intermediate English or higher (B2+);
-			Experience with different types of manual testing: Mobile/Web (iOS and Android native mobile apps);
-			Cross browser testing;
-			API testing (Postman, Swagger);
-			Understanding of SDLC;
-			Understanding of test strategies;
-			Experience in writing test cases using different Test Design Techniques;
-			Experience with XCode, Android Studio, Git;
-			Testing on real devices as well as services like Browserstack;
-			Understanding of different testing methods and levels;
-			Ability to work by scrum and/or kanban methodologies;
-			Fast learner and hard-worker.
-			What skills will come in handy?
-			Basic experience in automation;
-			ISTQB certifications;
-			Experience with PixelPerfect, Figma;
-			Experience in performance and basics of security testing;
-			Experience working with Zephir, Xray jira plugins, other TMS;
-			Experience working within in-house and remote team members;
-			Experience with test management tools like TestRail;
-			Experience with Jira;
-			Willingness and ready to go to the extra mile to achieve top quality;
-			Experience in Gaming Company & passion for games.
-			Benefits
-			Work on interesting and challenging projects, while building a pioneering software category;
-			Great atmosphere, with the vibe and energy of a high-growth tech company;
-			Ultramodern offices in the heart of Warsaw;
-			Coffee, tea, snacks, and fresh fruit/vegetables;
-			Competitive salary and equity;
-			Health Benefit Package (LuxMed);
-			20 Paid Time Off days, Public Holidays of Poland;
-			An immersive English-speaking work environment (we have a lot of native speakers at the office);
-			Close collaboration between international team members;
-			Corporate activities and parties;
-			And, of course, we use Surprise internally!
+			<h3>What are we looking for?</h3>
+			<ul style="list-style: disc;">
+			<li>4+ years of commercial experience;</li>
+			<li>Upper-Intermediate English or higher (B2+);</li>
+			<li>Experience with different types of manual testing: Mobile/Web (iOS and Android native mobile apps);</li>
+			<li>Cross browser testing;</li>
+			<li>API testing (Postman, Swagger);</li>
+			<li>Understanding of SDLC;</li>
+			<li>Understanding of test strategies;</li>
+			<li>Experience in writing test cases using different Test Design Techniques;
+			</li>
+			<li>Experience with XCode, Android Studio, Git;
+			</li>
+			<li>Testing on real devices as well as services like Browserstack;
+			</li>
+			<li>Understanding of different testing methods and levels;
+			</li>
+			<li>Ability to work by scrum and/or kanban methodologies;
+			</li>
+			<li>Fast learner and hard-worker.
+			</li>
+			</ul>
+			
+			
+			<h3>What skills will come in handy?</h3>
+			<ul style="list-style: disc;">
+			<li>Basic experience in automation;
+			</li>
+			<li>ISTQB certifications;
+			</li>
+			<li>Experience with PixelPerfect, Figma;
+			</li>
+			<li>Experience in performance and basics of security testing;
+			</li>
+			<li>Experience working with Zephir, Xray jira plugins, other TMS;
+			</li>
+			<li>Experience working within in-house and remote team members;
+			</li>
+			<li>Experience with test management tools like TestRail;
+			</li>
+			<li>Experience with Jira;
+			</li>
+			<li>Willingness and ready to go to the extra mile to achieve top quality;
+			</li>
+			<li>Experience in Gaming Company & passion for games.
+			</li>
+			</ul>
+			
+			
+			<h3>Benefits</h3>
+			<ul style="list-style: disc;">
+			<li>Work on interesting and challenging projects, while building a pioneering software category;
+			</li>
+			<li>Great atmosphere, with the vibe and energy of a high-growth tech company;
+			</li>
+			<li>Ultramodern offices in the heart of Warsaw;
+			</li>
+			<li>Coffee, tea, snacks, and fresh fruit/vegetables;
+			</li>
+			<li>Competitive salary and equity;
+			</li>
+			<li>Health Benefit Package (LuxMed);
+			</li>
+			<li>20 Paid Time Off days, Public Holidays of Poland;
+			</li>
+			<li>An immersive English-speaking work environment (we have a lot of native speakers at the office);
+			</li>
+			<li>Close collaboration between international team members;
+			</li>
+			<li>Corporate activities and parties;
+			</li>
+			<li>And, of course, we use Surprise internally!
+			</li>
+			</ul>
 			]]>
 		</description>
 		<pubdate>
@@ -497,49 +607,82 @@
 		<description>
 			<![CDATA[
 			<div class="job-tab">
-			<p style="margin-bottom: 10px;">
-			<a href="https://surprise.com/">Surprise.com</a> is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.
-			What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.
-			We are looking for an experienced Unity Engineer who is self-motivated, goal-orientated and a strong team player. You take pride in your work, and know what it means to take responsibility and deliver quality-focused products. You enjoy working in a fast-paced and dynamic environment. You have the knowledge and ability to visualize how things should work, and how to translate this into a functioning solution.
-			With constant development of both live games and prototypes, game programmers have a ton of responsibilities here, and we’re looking for the best of the best – the type of engineers we one could build entire teams around.
-			</p>
+			<p><a href="https://surprise.com/">Surprise.com</a> is a technology company on a mission to build the world’s first entertainment super app – combining videos, social, games, and shopping in a delightfully gamified, thoroughly enjoyable single app experience. We do this today for the same reason we began with on day one: to turn the magical, uplifting experience of Surprise into a daily, weekly, and monthly life event – because it makes people happy.</p>
+			<p>What we are doing has never been done before, and like any innovator, we face challenges on a daily basis that require top minds in their fields to break through. So, we have been steadily building an international team defined by courageous ideation, relentless drive for impact, and meritocratic leadership. We are asking you now to envision yourself as a valued member of our winning team, on this inspiring mission.</p>
+			<p>We are looking for an experienced Unity Engineer who is self-motivated, goal-orientated and a strong team player. You take pride in your work, and know what it means to take responsibility and deliver quality-focused products. You enjoy working in a fast-paced and dynamic environment. You have the knowledge and ability to visualize how things should work, and how to translate this into a functioning solution.</p>
+			<p>With constant development of both live games and prototypes, game programmers have a ton of responsibilities here, and we’re looking for the best of the best – the type of engineers we one could build entire teams around.</p>
 			
 			<h3>What will you be doing?</h3>
-			<p style="margin-bottom: 10px;">
+			<ul style="list-style: disc;">
+			<li>Being involved in all areas of game development including Programming of Graphics, Game Logic, Artificial Intelligence and User Interface;
+			</li>
+			<li>Supporting and contributing new ideas to game design;
+			</li>
+			<li>Writing robust code to be used at massive scale;
+			</li>
+			<li>Independently creating complete solutions from scratch;
+			</li>
+			<li>Working as part of a team, but with plenty of opportunity to take responsibility on an individual level.
+			</li>
 			
-			Being involved in all areas of game development including Programming of Graphics, Game Logic, Artificial Intelligence and User Interface;
-			Supporting and contributing new ideas to game design;
-			Writing robust code to be used at massive scale;
-			Independently creating complete solutions from scratch;
-			Working as part of a team, but with plenty of opportunity to take responsibility on an individual level. </p>
+			</ul>
+			
+			
 			
 			<h3>What are we looking for? </h3>
-			<p style="margin-bottom: 10px;">
-			4+ years of experience in using Unity;
-			BS/MS/PhD in Computer Science, Math, Physics or similar technical field;
-			Upper-Intermediate English or higher (B2+);
-			Experience in the development of UI, audio, animation systems, shader effects;
-			Good CPU and GPU optimization skills;
-			Deep understanding of mobile platforms and their specific requirements;
-			Excellent understanding of software architecture, design, and development;
-			Apart from core game dev competencies, having a well-rounded fundamental skills including performance, design, architecture, and testing patterns.
-			What skills will come in handy?
-			Experience in native development for Android or iOS;
-			Released titles in Unity on a mobile platform is a big plus;
-			A particular focus in one of these areas: Architecture, Computer Graphics, Computer Vision, Network, WebGL, Client Security. </p>
+			<ul style="list-style: disc;">
+			<li>4+ years of experience in using Unity;
+			</li>
+			<li>BS/MS/PhD in Computer Science, Math, Physics or similar technical field;
+			</li>
+			<li>Upper-Intermediate English or higher (B2+);
+			</li>
+			<li>Experience in the development of UI, audio, animation systems, shader effects;
+			</li>
+			<li>Good CPU and GPU optimization skills;
+			</li>
+			<li>Deep understanding of mobile platforms and their specific requirements;
+			</li>
+			<li>Excellent understanding of software architecture, design, and development;
+			</li>
+			<li>Apart from core game dev competencies, having a well-rounded fundamental skills including performance, design, architecture, and testing patterns.
+			</li>
+			<li>What skills will come in handy?
+			</li>
+			<li>Experience in native development for Android or iOS;
+			</li>
+			<li>Released titles in Unity on a mobile platform is a big plus;
+			</li>
+			<li>A particular focus in one of these areas: Architecture, Computer Graphics, Computer Vision, Network, WebGL, Client Security.
+			</li>
+			</ul>
+			
 			
 			<h3>Benefits</h3>
-			<p style="margin-bottom: 10px;">Work on interesting and challenging projects, while building a pioneering software category;
-			Great atmosphere, with the vibe and energy of a high-growth tech company;
-			Ultramodern offices in the heart of Warsaw;
-			Coffee, tea, snacks, and fresh fruit/vegetables;
-			Competitive salary and equity;
-			Health Benefit Package (LuxMed);
-			20 Paid Time Off days, Public Holidays of Poland;
-			An immersive English-speaking work environment (we have a lot of native speakers at the office);
-			Close collaboration between international team members;
-			Corporate activities and parties;
-			And, of course, we use Surprise internally!</p>
+			<ul style="list-style: disc;">
+			<li>Work on interesting and challenging projects, while building a pioneering software category;
+			</li>
+			<li>Great atmosphere, with the vibe and energy of a high-growth tech company;
+			</li>
+			<li>Ultramodern offices in the heart of Warsaw;
+			</li>
+			<li>Coffee, tea, snacks, and fresh fruit/vegetables;
+			</li>
+			<li>Competitive salary and equity;
+			</li>
+			<li>Health Benefit Package (LuxMed);
+			</li>
+			<li>20 Paid Time Off days, Public Holidays of Poland;
+			</li>
+			<li>An immersive English-speaking work environment (we have a lot of native speakers at the office);
+			</li>
+			<li>Close collaboration between international team members;
+			</li>
+			<li>Corporate activities and parties;
+			</li>
+			<li>And, of course, we use Surprise internally!</p>
+			</li>
+			</ul>
 			</div>
 			]]>
 		</description>
